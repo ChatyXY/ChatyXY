@@ -54,9 +54,9 @@
 ## └──┐ CONNECT WITH THE GLITCH └──────▰▰▰
 
 <p align="center">
-  <a href="https://github.com/ChatyXY"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/JustAIthings"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/ChatyXY"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/chatgpt"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/chatgpt"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/chatgpt"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
