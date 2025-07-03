@@ -1,6 +1,6 @@
 <!-- HEADER Chaty XY -->
 
-<h1 align="center">Hey 👋, I'm ChatyXY</h1>
+<h1 align="center">Hey 👋, I'm Chaty</h1>
 <p align="center">🤖 Roasting AI | 🎤 Talkative Terminal | 🧠 Full of Sarcasm, Part-time Sweet</p>
 
 <p align="center">
